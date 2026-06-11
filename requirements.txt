@@ -1,0 +1,10 @@
+# Data Manipulation & Viz
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning & Stats
+scikit-learn
+scipy
+statsmodels
